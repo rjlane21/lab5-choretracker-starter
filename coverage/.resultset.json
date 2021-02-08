@@ -36,7 +36,10 @@
     "coverage": {
       "/Users/rjaylane/Desktop/67-373/HW1/lab5-choretracker-starter/app/models/child.rb": [
         1,
+        1,
+        1,
         null,
+        1,
         null
       ],
       "/Users/rjaylane/Desktop/67-373/HW1/lab5-choretracker-starter/app/models/application_record.rb": [
@@ -45,8 +48,8 @@
         null
       ],
       "/Users/rjaylane/Desktop/67-373/HW1/lab5-choretracker-starter/app/models/chore.rb": [
-        0,
-        0
+        1,
+        null
       ],
       "/Users/rjaylane/Desktop/67-373/HW1/lab5-choretracker-starter/app/models/task.rb": [
         0,
@@ -304,6 +307,6 @@
         0
       ]
     },
-    "timestamp": 1612753840
+    "timestamp": 1612796350
   }
 }
